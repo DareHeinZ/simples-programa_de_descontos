@@ -1,2 +1,4 @@
-# simples-programa_de_descontos
-|Simples programa em terminal, para descontos, seja adicionar ou retirar um valor|
+# Simples programa de descontos:money_mouth_face:
+
+### Programa em CLI para descontos tanto adição, quanto retirada.
+
